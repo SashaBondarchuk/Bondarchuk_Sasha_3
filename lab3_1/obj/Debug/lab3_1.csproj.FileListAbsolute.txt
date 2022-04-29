@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\bin\Debug\lab3_1.exe.config
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\bin\Debug\lab3_1.exe
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\bin\Debug\lab3_1.pdb
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\obj\Debug\lab3_1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\obj\Debug\lab3_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\obj\Debug\lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\obj\Debug\lab3_1.exe
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\obj\Debug\lab3_1.pdb
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\лаби оп\lab3\lab3_1\obj\Debug\lab3_1.csproj.CopyComplete
